@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="Api_Automation_Suite.version1.guice.LibraryTest">
+      <class name="Api_Automation_Suite.version1.firsttest.AllTests">
         <methods>
-          <include name="libraryTestSelf"/>
+          <include name="newtest"/>
         </methods>
-      </class> <!-- Api_Automation_Suite.version1.guice.LibraryTest -->
+      </class> <!-- Api_Automation_Suite.version1.firsttest.AllTests -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

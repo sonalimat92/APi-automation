@@ -1,11 +1,4 @@
-/Users/sonalimathur/eclipse-workspace/version1/src/main/java/Api_Automation_Suite/version1/guice/Product.java
-/Users/sonalimathur/eclipse-workspace/version1/src/main/java/Api_Automation_Suite/version1/guice/SumValidation.java
-/Users/sonalimathur/eclipse-workspace/version1/src/main/java/Api_Automation_Suite/version1/guice/ProjectModule.java
-/Users/sonalimathur/eclipse-workspace/version1/src/main/java/Api_Automation_Suite/version1/guice/Oauthtoken.java
-/Users/sonalimathur/eclipse-workspace/version1/src/main/java/Api_Automation_Suite/version1/guice/provider/WebDriverProvider.java
-/Users/sonalimathur/eclipse-workspace/version1/src/main/java/Api_Automation_Suite/version1/guice/SecondApiWithMockJson.java
-/Users/sonalimathur/eclipse-workspace/version1/src/main/java/payloads/FirstApiTestPayload.java
-/Users/sonalimathur/eclipse-workspace/version1/src/main/java/Api_Automation_Suite/version1/guice/LibraryTest.java
-/Users/sonalimathur/eclipse-workspace/version1/src/main/java/Api_Automation_Suite/version1/guice/GuiceInjectorSource.java
-/Users/sonalimathur/eclipse-workspace/version1/src/main/java/Api_Automation_Suite/version1/guice/ProductTest.java
-/Users/sonalimathur/eclipse-workspace/version1/src/main/java/Api_Automation_Suite/version1/guice/FirstApiTest.java
+/Users/sonalimathur/Rest Assured/APi-automation/version1/src/main/java/Api_Automation_Suite/version1/guice/LibraryTest.java
+/Users/sonalimathur/Rest Assured/APi-automation/version1/src/main/java/Api_Automation_Suite/version1/guice/SecondMockTest.java
+/Users/sonalimathur/Rest Assured/APi-automation/version1/src/main/java/Api_Automation_Suite/version1/guice/FirstApiTest.java
+/Users/sonalimathur/Rest Assured/APi-automation/version1/src/main/java/PayloadTest/PayloadData.java

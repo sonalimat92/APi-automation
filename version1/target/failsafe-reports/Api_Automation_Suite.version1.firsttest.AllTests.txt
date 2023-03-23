@@ -1,11 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: Api_Automation_Suite.version1.firsttest.AllTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 10.763 sec <<< FAILURE! - in Api_Automation_Suite.version1.firsttest.AllTests
-newtest(Api_Automation_Suite.version1.firsttest.AllTests)  Time elapsed: 9.91 sec  <<< FAILURE!
-java.lang.AssertionError: 
-1 expectation failed.
-Expected status code <400> but was <200>.
-
-	at Api_Automation_Suite.version1.firsttest.AllTests.newtest(AllTests.java:20)
-
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 4.888 sec - in Api_Automation_Suite.version1.firsttest.AllTests

@@ -1,11 +1,4 @@
-Api_Automation_Suite/version1/guice/SumValidation.class
+Api_Automation_Suite/version1/guice/SecondMockTest.class
 Api_Automation_Suite/version1/guice/FirstApiTest.class
-Api_Automation_Suite/version1/guice/GuiceInjectorSource.class
 Api_Automation_Suite/version1/guice/LibraryTest.class
-Api_Automation_Suite/version1/guice/Product.class
-Api_Automation_Suite/version1/guice/ProjectModule.class
-Api_Automation_Suite/version1/guice/provider/WebDriverProvider.class
-Api_Automation_Suite/version1/guice/ProductTest.class
-Api_Automation_Suite/version1/guice/Oauthtoken.class
-payloads/FirstApiTestPayload.class
-Api_Automation_Suite/version1/guice/SecondApiWithMockJson.class
+PayloadTest/PayloadData.class
