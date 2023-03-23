@@ -1,21 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+<testng-results ignored="2" total="4" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2023-03-23T16:44:31 IST" name="Surefire suite" finished-at="2023-03-23T16:44:31 IST" duration-ms="11">
+  <suite started-at="2023-03-23T17:17:38 IST" name="Suite" finished-at="2023-03-23T17:17:50 IST" duration-ms="11218">
     <groups>
     </groups>
-    <test started-at="2023-03-23T16:44:31 IST" name="Surefire test" finished-at="2023-03-23T16:44:31 IST" duration-ms="11">
-      <class name="Api_Automation_Suite.version1.firsttest.BaseTest">
-        <test-method is-config="true" signature="startTest()[pri:0, instance:Api_Automation_Suite.version1.firsttest.BaseTest@2b71e916]" started-at="2023-03-23T16:44:31 IST" name="startTest" finished-at="2023-03-23T16:44:31 IST" duration-ms="326" status="PASS">
+    <test started-at="2023-03-23T17:17:38 IST" name="AppTest" finished-at="2023-03-23T17:17:50 IST" duration-ms="11218">
+      <class name="Api_Automation_Suite.version1.firsttest.AllTests">
+        <test-method is-config="true" signature="startTest()[pri:0, instance:Api_Automation_Suite.version1.firsttest.AllTests@54e1c68b]" started-at="2023-03-23T17:17:38 IST" name="startTest" finished-at="2023-03-23T17:17:38 IST" duration-ms="378" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startTest -->
-        <test-method is-config="true" signature="flushReport()[pri:0, instance:Api_Automation_Suite.version1.firsttest.BaseTest@2b71e916]" started-at="2023-03-23T16:44:31 IST" name="flushReport" finished-at="2023-03-23T16:44:31 IST" duration-ms="22" status="PASS">
+        <test-method signature="newtest()[pri:0, instance:Api_Automation_Suite.version1.firsttest.AllTests@54e1c68b]" started-at="2023-03-23T17:17:38 IST" name="newtest" finished-at="2023-03-23T17:17:44 IST" duration-ms="5584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newtest -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Api_Automation_Suite.version1.firsttest.AllTests@54e1c68b]" started-at="2023-03-23T17:17:44 IST" name="tearDown" finished-at="2023-03-23T17:17:44 IST" duration-ms="2" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=newtest status=SUCCESS method=AllTests.newtest()[pri:0, instance:Api_Automation_Suite.version1.firsttest.AllTests@54e1c68b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="flushReport()[pri:0, instance:Api_Automation_Suite.version1.firsttest.AllTests@54e1c68b]" started-at="2023-03-23T17:17:50 IST" name="flushReport" finished-at="2023-03-23T17:17:50 IST" duration-ms="440" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- flushReport -->
-      </class> <!-- Api_Automation_Suite.version1.firsttest.BaseTest -->
-    </test> <!-- Surefire test -->
-  </suite> <!-- Surefire suite -->
+      </class> <!-- Api_Automation_Suite.version1.firsttest.AllTests -->
+      <class name="Api_Automation_Suite.version1.firsttest.SecondApi">
+        <test-method signature="newtest2()[pri:0, instance:Api_Automation_Suite.version1.firsttest.SecondApi@771a660]" started-at="2023-03-23T17:17:44 IST" name="newtest2" finished-at="2023-03-23T17:17:50 IST" duration-ms="5585" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newtest2 -->
+        <test-method is-config="true" signature="tearDown(org.testng.ITestResult)[pri:0, instance:Api_Automation_Suite.version1.firsttest.SecondApi@771a660]" started-at="2023-03-23T17:17:50 IST" name="tearDown" finished-at="2023-03-23T17:17:50 IST" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=newtest2 status=SUCCESS method=SecondApi.newtest2()[pri:0, instance:Api_Automation_Suite.version1.firsttest.SecondApi@771a660] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Api_Automation_Suite.version1.firsttest.SecondApi -->
+    </test> <!-- AppTest -->
+  </suite> <!-- Suite -->
 </testng-results>

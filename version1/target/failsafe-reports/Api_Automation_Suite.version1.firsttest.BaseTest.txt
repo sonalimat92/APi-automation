@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: Api_Automation_Suite.version1.firsttest.BaseTest
--------------------------------------------------------------------------------
-Tests run: 0, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.772 sec - in Api_Automation_Suite.version1.firsttest.BaseTest

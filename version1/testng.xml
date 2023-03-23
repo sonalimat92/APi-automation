@@ -7,7 +7,7 @@
     <classes>
       <class name="Api_Automation_Suite.version1.firsttest.AllTests"/>
     
-      <class name="Api_Automation_Suite.version1.firsttest.AllTests2"/>
+      <class name="Api_Automation_Suite.version1.firsttest.SecondApi"/>
 
     </classes>
   </test> <!-- Test -->
